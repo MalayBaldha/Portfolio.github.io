@@ -16,8 +16,6 @@ body{
 }
 #intro img {
     position: absolute;
-    right: 50%;
-    transform: translateX(50%);
     min-width: 100% ;
     min-height: 100% ;   
 }
