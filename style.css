@@ -17,7 +17,6 @@ body{
 #intro img {
     display: block;
     position: absolute;
-    
-    min-width: 100% ;
-    min-height: 100% ;   
+    width: 100% ;
+    height: 100% ;   
 }
