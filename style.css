@@ -15,7 +15,6 @@ body{
     overflow: hidden;
 }
 #intro img {
-    display: block;
     position: absolute;
     right: 50%;
     transform: translateX(50%);
